@@ -15,9 +15,3 @@ I'm an eager Computer Science and Data Science Student at Worcester Polytechnic 
 - **Languages**: C/C++, Java, Python, JavaScript, HTML, CSS, R
 - **Software**: VSCode, Eclipse, RStudio, Microsoft Excel
 - **Technical**: Data Analysis/Visualization, Applied Statistics, Business Analytics
-
-## 🤝 Let's Connect!
-
-Feel free to connect with me on these platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/diwakarsandhu1/)
