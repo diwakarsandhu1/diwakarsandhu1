@@ -2,7 +2,7 @@
 
 ## 🌱 About Me
 
-I'm an eager Computer Science and Data Science Student at Worcester Polytechnic Institute. I have a strong passion for problem-solving and using technology to solve real-world problems. Currently, I am on the search for a summer internship so that I can explore new opportunities for growth and development.
+I'm an eager Computer Science and Data Science Student at Worcester Polytechnic Institute. I have a strong passion for problem-solving and using technology to solve real-world problems.
 
 - 🎓 I currently study at **Worcester Polytechnic Institute**
 - 🤖 I am intersted in **Artificial Intelligence**, **Machine Learning**, **Software Development**
