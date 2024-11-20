@@ -2,7 +2,7 @@
 
 ## 🌱 About Me
 
-I'm an eager Computer Science and Data Science Student at Worcester Polytechnic Institute. I have a strong passion for problem-solving and using technology to solve real-world problems.
+I'm an eager Computer Science, Data Science, and FinTech Student at Worcester Polytechnic Institute. I have a strong passion for problem-solving and using technology to solve real-world problems.
 
 - 🎓 I currently study at **Worcester Polytechnic Institute**
 - 🤖 I am intersted in **Software Development**, **Artificial Intelligence**, **Machine Learning**
